@@ -1,7 +1,9 @@
 # Midterm 1 — ANSWERS
 
 Fingerprint: 12f03a24
+
 GitHub username: darkhantursbekov
+
 Session code: practice
 
 ## AI-use declaration
